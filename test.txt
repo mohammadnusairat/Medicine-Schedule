@@ -1,0 +1,13 @@
+3
+VitaminC
+3
+1
+Aspirin
+5
+2
+Calcium
+7
+1
+yes
+myMedicineSchedule.txt
+end

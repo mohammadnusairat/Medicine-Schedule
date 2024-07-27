@@ -1,0 +1,7 @@
+S: Aspirin x2 Calcium x1 VitaminC x1 
+M: Aspirin x2 Calcium x1 VitaminC x1 
+T: Aspirin x2 Calcium x1 VitaminC x1 
+W: Aspirin x2 Calcium x1 
+TH: Aspirin x2 Calcium x1 
+F: Calcium x1 
+Sat: Calcium x1 
