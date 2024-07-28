@@ -15,10 +15,6 @@ function submitName() {
     }
 }
 
-function isNumber(str) {
-    return !isNaN(str) && !isNaN(parseFloat(str));
-}
-
 function gatherUserInput() {
     const numItems = document.getElementById('numItems').value;
     const inputFieldsDiv = document.getElementById('inputFields');
